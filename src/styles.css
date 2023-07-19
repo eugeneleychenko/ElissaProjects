@@ -1,0 +1,36 @@
+.App {
+  font-family: "Product Sans", sans-serif;
+  font-family: "Product Sans Thin", sans-serif;
+  font-family: "Product Sans Light", sans-serif;
+  font-family: "Product Sans Medium", sans-serif;
+  font-family: "Product Sans Black", sans-serif;
+
+  text-align: center;
+}
+
+@import url("https://fonts.cdnfonts.com/css/google-sans");
+
+.MuiTableCell-body {
+  color: white;
+}
+
+.MuiTableCell-head {
+  color: white;
+  font-size: "2rem";
+}
+
+.navbar {
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.navbar a {
+  color: white;
+  font-family: "Helvetica", sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  background-size: 200vh;
+  background-color: black;
+}
